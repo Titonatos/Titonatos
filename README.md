@@ -9,6 +9,8 @@ Hi there. Seeking an internship or junior frontend position. Motivated and purpo
 * 🌍  I'm based in Russia, Kazan
 * ✉️  You can contact me at [titanium4ik777@gmail.com](mailto:titanium4ik777@gmail.com) or telegram: [@titanium4ik](https://t.me/titanium4ik)
 * 🧠 I'm learning React JS
+* ⚡ I love playing volleyball
+* 📋 This is my [CV](https://cv.hexlet.io/ru/resumes/3553)
 
 ### Skills
 
