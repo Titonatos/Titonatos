@@ -30,5 +30,4 @@ Hi there. Seeking an internship or junior frontend position. Motivated and purpo
   checking a number for primality.</p>
 
 * [Chat](https://github.com/Titonatos/frontend-project-12)
-  <p>Final stage of development</p>
-  <p>Online chat</p>
+  <p>A simplified version of Slack Chat that includes web sockets, interacting with REST APIs, using React (with hooks), Redux Toolkit, client-side routing, authorization and authentication, and of course, building and deploying.</p>
