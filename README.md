@@ -28,3 +28,7 @@ Hi there. Seeking an internship or junior frontend position. Motivated and purpo
 * [Brain Games](https://github.com/Titonatos/frontend-project-44)
   <p>Console application of 5 different mini-games that include tasks such as checking a number for parity, arithmetic operations, finding the greatest common divisor, continuing a series of numbers,     
   checking a number for primality.</p>
+
+* [Chat](https://github.com/Titonatos/frontend-project-12)
+  <p>Final stage of development</p>
+  <p>Online chat</p>
