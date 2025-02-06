@@ -19,6 +19,9 @@ Hi there. Seeking an internship or junior frontend position. Motivated and purpo
 </p>
 
 ### My projects
+* [Chat](https://github.com/Titonatos/frontend-project-12)
+  <p>A simplified version of Slack Chat that includes web sockets, interacting with REST APIs, using React (with hooks), Redux Toolkit, client-side routing, authorization and authentication, and of course, building and deploying.</p>
+  
 * [RSS Agregator](https://github.com/Titonatos/frontend-project-11)
   <p>This is a service for aggregating RSS feeds, with which you can read a variety of sources, for example, blogs. It allows you to add an unlimited number of RSS feeds, updates them itself and adds new    entries to the general feed.</p>
 
@@ -28,6 +31,3 @@ Hi there. Seeking an internship or junior frontend position. Motivated and purpo
 * [Brain Games](https://github.com/Titonatos/frontend-project-44)
   <p>Console application of 5 different mini-games that include tasks such as checking a number for parity, arithmetic operations, finding the greatest common divisor, continuing a series of numbers,     
   checking a number for primality.</p>
-
-* [Chat](https://github.com/Titonatos/frontend-project-12)
-  <p>A simplified version of Slack Chat that includes web sockets, interacting with REST APIs, using React (with hooks), Redux Toolkit, client-side routing, authorization and authentication, and of course, building and deploying.</p>
